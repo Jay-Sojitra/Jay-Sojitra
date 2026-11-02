@@ -98,10 +98,10 @@ Built and shipped an Aave V2-based lending and borrowing protocol to production.
 
 ## Currently Exploring
 
-- Building products with real use cases and real users: blockchain that solves an everyday problem, not just a technical one
+- New ideas to build into W Chain: use cases and products that bring more users onto the network
+- Any product idea with a real use case and real users, in blockchain or beyond, if it solves a problem worth solving
 - Payments and onboarding flows that make on-chain finance feel as simple as a normal app
-- AI-driven DeFi automation and agent-based execution systems
-- Cross-chain messaging and interoperability protocols
+- AI-driven automation and agent-based systems
 
 ---
 
