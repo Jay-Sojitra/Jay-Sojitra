@@ -109,7 +109,7 @@ Built and shipped an Aave V2-based lending and borrowing protocol to production.
 
 Would love to collaborate on protocol development, smart contract security, or innovative DeFi infrastructure.
 
-- **Portfolio:** [jaysojitra.xyz](https://www.jaysojitra.xyz/)
+- **Portfolio:** [jaysojitra.dev](https://jaysojitra.dev/)
 - **Email:** jaysojitra1011@gmail.com
 - **Telegram:** [@Jay_sojitra](https://t.me/Jay_sojitra)
 - **Twitter:** [x.com/Jay_Sojitra_](https://x.com/Jay_Sojitra_)
